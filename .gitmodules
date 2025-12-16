@@ -1,0 +1,6 @@
+[submodule "mobile/mobile_frontend"]
+	path = mobile/mobile_frontend
+	url = https://github.com/syaifulmain/jawara_mobile.git
+[submodule "mobile/mobile_backend"]
+	path = mobile/mobile_backend
+	url = https://github.com/syaifulmain/jawara-api.git
